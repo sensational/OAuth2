@@ -3,8 +3,14 @@ Contributors
 
 Contributors to the codebase, in reverse chronological order:
 
+- Foti Dim, @fotidim
+- Denis, @telipskiy
+- Larry Brunet, @larrybrunet
+- Dave Carlson, @drdavec
+- Sam Oakley, @blork
 - David Jennes, @davidjennes
 - Tim Schmitz, @tschmitz
+- Maxime Le Moine, @MaximeLM
 - Seb Skuse, @sebskuse
 - David Hardiman, @dhardiman
 - Amaury David, @amaurydavid
